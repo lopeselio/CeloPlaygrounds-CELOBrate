@@ -1,8 +1,8 @@
 # CELObrate
 
 <p align="center">
-  <h6>Built at Celo Playgrounds: A Celebration Of Diversity</h6>
-  <img src="https://ibb.co/Vj7hC1d" alt="Logo" width="120" height="120">
+  <h6>Built at Celo Playgrounds: A Celebration Of Diversity Gitcoin Hackathon</h6>
+  <img src="./Screenshot 2022-07-17 at 4.40.25 AM.png" alt="Logo" width="120" height="120">
   </p>
   
   <p align="center"><a href="https://youtu.be/GwMJG2AoaXI">Watch Demo Video on YouTube</a></p>
