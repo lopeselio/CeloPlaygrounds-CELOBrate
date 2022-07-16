@@ -1,5 +1,5 @@
-# [CELObrate](https://celobrate.netlify.xyz)
-[celobrate.netlify.xyz](https://celobrate.netlify.xyz)
+# [CELObrate](https://celobrate.netlify.com)
+[celobrate.netlify.com](https://celobrate.netlify.com)
 or
 [old-sea-4609.on.fleek.co](https://old-sea-4609.on.fleek.co)
 
