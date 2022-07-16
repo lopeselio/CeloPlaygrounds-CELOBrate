@@ -1,5 +1,7 @@
 # CELObrate
 
+Developed by [Elio Jordan Lopes](https://github.com/lopeselio/) and [Ramesh Sachan](https://github.com/holps-7)
+
 <p align="center">
   <h6>Built at Celo Playgrounds: A Celebration Of Diversity Gitcoin Hackathon</h6>
   <img src="./Screenshot 2022-07-17 at 4.40.25 AM.png" alt="Logo" width="120" height="120">
