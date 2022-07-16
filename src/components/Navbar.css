@@ -31,3 +31,11 @@
   -webkit-text-fill-color: transparent;
   line-height: 40px;
 }
+
+.forum {
+    margin-top: 40px;
+    margin-left: auto !important;
+    align-content: stretch !important;
+    width: 1600px !important;
+    
+}
