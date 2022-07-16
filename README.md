@@ -2,9 +2,9 @@
 
 CELOBrate is a decentralised LGBTIQ+ Themed Forum Where People Can Have Discussions And Identities Are Attached To Their Celo Wallet, powered by smart contracts and Celo Blockchain Network. 
 
-- People of the community can connect their Celo Wallet, post artwork, awareness posts and messages as NFTs, and the other members of the community, and can even raise funds for their cause through monetized NFTs depicting artwork, and anti-harassment slogans. Here the members of the community on the platform can donate #CELO tokens to the creator of the artwork. Also all the artwork is Censorship resistant and stored in a distributed format on the IPFS.
+- People of the community can connect their Celo Wallet, post artwork, awareness posts and messages as NFTs, and the other members of the community, and can even raise funds for their cause through monetized NFTs depicting artwork, and anti-harassment slogans. Here the members of the community on the platform can donate #CELO tokens to the creator of the artwork. Also all the artwork is Censorship resistant and stored in a distributed format on the IPFS. The funds raised can be donated to causes for LGBTQ+ Impact
 
-- They can also engage in an open censorship resistant chat-forum, wherein they can add different people in the community as friends, just like a social network (using their wallet address and user name) as identity preserved on-chain. 
+- They can also engage in an open censorship resistant chat-forum, wherein they can add different people in the community as friends, just like a social network (using their wallet address and user name) as identity preserved on-chain. Here they can help raise awareness.
 
 ## Highlights from the Pride Month in 2022
 
