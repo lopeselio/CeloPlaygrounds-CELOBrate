@@ -19,3 +19,12 @@ CELOBrate is a decentralised LGBTIQ+ Themed Forum Where People Can Have Discussi
 - Celo Contract Kit
 - Truffle for testing, compiling and deploying smart contracts
 - Web3 JS and Ethers for interacting with the smart contracts
+
+# Verify our smart contracts on Celo Alfajores explorer here:
+1. NFT Creation and Donation Forum Contract 
+`0x44802806B81d0Dd3a66d02B01869A484e840cA14` [0x44802806B81d0Dd3a66d02B01869A484e840cA14](https://alfajores-blockscout.celo-testnet.org/address/0x44802806B81d0Dd3a66d02B01869A484e840cA14/transactions)
+
+2. Chat Forum Contract
+`0x72fE004d63ce4A48B18959A04AcF793276026C80` [0x72fE004d63ce4A48B18959A04AcF793276026C80](https://alfajores-blockscout.celo-testnet.org/address/0x72fE004d63ce4A48B18959A04AcF793276026C80/transactions)
+
+# Screenshots
