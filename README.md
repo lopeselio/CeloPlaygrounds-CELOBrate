@@ -32,3 +32,22 @@ CELOBrate is a decentralised LGBTIQ+ Themed Forum Where People Can Have Discussi
 
 
 # Screenshots
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/179373946-12a67bb8-dd00-4a1c-9d4d-5ea05509b2f1.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/179373983-7c1afca9-9fde-4670-8c89-fab29b542700.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/179373997-d52987fa-c863-404e-86cf-a52f9aa84d94.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/179374018-551b9f12-ee30-44ae-8a0a-c6b28396eb3f.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/179374037-be79db07-09f2-40b8-be9a-e39138cf22cc.png">
+
+<img width="410" alt="image" src="https://user-images.githubusercontent.com/43913734/179374074-93de3abb-2036-4a95-ab3a-d8b6a4188c55.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/179374085-dc077855-308e-4673-8d8c-e805e9da1da7.png">
+
+
+
+
+- Solidity Smart Contract
