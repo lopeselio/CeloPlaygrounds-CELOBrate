@@ -9,8 +9,8 @@ CELOBrate is a decentralised LGBTIQ+ Themed Forum Where People Can Have Discussi
 ## Highlights from the Pride Month in 2022
 
 - We have seen that artwork collections are used and have been immortalized in the form of NFTs — the blockchain-based digital property certificates that are proving popular in the art world  
-- Recently, in celebration of the Pride Month, NFT collection paying tribute to a selection of pride icons has been launched to raise funds for organizations fighting for the rights of LGBTQ+ community of people all over the United States. One such collection called, ** “Pride Icons" ** is billed as “the world’s largest LGBTQI+ NFT collection.
-- A lot of funds have been donated to charities and organizations fighting for the rights of people in the LGBTQI+ community, like GLAAD and the Trevor Project, and the world believes that once a strong community has been built up, once we get more people, we can do so much good for this world through web3.
+- Recently, in celebration of the Pride Month, NFT collection paying tribute to a selection of pride icons has been launched to raise funds for organizations fighting for the rights of LGBTIQ+ community of people all over the United States. One such collection called, ** “Pride Icons" ** is billed as “the world’s largest LGBTIQ+ NFT collection.
+- A lot of funds have been donated to charities and organizations fighting for the rights of people in the LGBTIQ+ community, like GLAAD and the Trevor Project, and the world believes that once a strong community has been built up, once we get more people, we can do so much good for this world through web3.
 
 # Built With
 - React JS User Interface
