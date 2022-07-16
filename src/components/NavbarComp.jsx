@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Main from "./Main";
 import ShowImage from "./ShowImage";
 import UploadImage from "./UploadImage";
+import Forum from "./Forum"
 import photo from "../photo1.svg";
 import Modal from "./Modal";
 import './Navbar.css'
@@ -41,7 +42,7 @@ export default class NavbarComp extends Component {
                 <Nav.Link as={Link} to={"/post"}>
                   Post
                 </Nav.Link>
-                <Nav.Link as={Link} to={"/post"}>
+                <Nav.Link as={Link} to={"/forum"}>
                   Forum
                 </Nav.Link>
               </Nav>
@@ -78,6 +79,15 @@ export default class NavbarComp extends Component {
                 uploadImage={this.props.uploadImage}
               />
             </Route>
+            <Route path="/forum" exact component={Forum} />
+              <div>
+                Welcome to the Chat Forum 
+                <br />
+                <br />
+                <br />
+                <br />
+              </div>
+            {/* </Route> */}
           </Switch>
         </div>
       </Router>
