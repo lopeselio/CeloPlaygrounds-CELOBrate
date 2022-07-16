@@ -1,0 +1,33 @@
+.textWhite {
+    /* background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red); */
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    font-weight: 200;
+    font-size: 20px; 
+    /* text-shadow: -0.4px 0.4px #ef3550,
+               -0.8px 0.8px #f48fb1,
+               -1.2px 1.2px #7e57c2,
+               -1.6px 1.6px #2196f3,
+               -2.0px 2.0px #26c6da,
+               -2.4px 2.4px #43a047,
+               -2.8px 2.8px #eeff41,
+               -3.2px 3.2px #f9a825,
+               -3.6px 3.6px #ff5722; */
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 40px;
+}
+
+.btColor {
+    background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+    color: white;
+
+}
+
+.textwhite2 {
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 40px;
+}

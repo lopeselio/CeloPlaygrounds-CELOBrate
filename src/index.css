@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+:root {
+  --primary: #efb6b2;
+  --secondary: #4e4e4e;
+  --error: #ff4a4a;
+}
+
+/* base styles & title */
+body {
+  font-family: "Montserrat";
+  color: var(--secondary);
+}
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.title h1 {
+  color: var(--primary);
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+  font-weight: normal;
+}
+.title h2,
+.title p {
+  text-align: center;
+}
+.title h2 {
+  margin-top: 60px;
+  font-size: 2.6rem;
+}
+
+/* upload form styles */
+form {
+  margin: 30px auto 10px;
+  text-align: center;
+}
+label input {
+  height: 0;
+  width: 0;
+  opacity: 0;
+}
+label {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border: 1px solid var(--primary);
+  border-radius: 50%;
+  margin: 10px auto;
+  line-height: 30px;
+  color: var(--primary);
+  font-weight: bold;
+  font-size: 24px;
+}
+label:hover {
+  background: var(--primary);
+  color: white;
+}
+.output {
+  height: 60px;
+  font-size: 0.8rem;
+}
+.error {
+  color: var(--error);
+}
+
+/* progress bar styles */
+.progress-bar {
+  height: 5px;
+  background: var(--primary);
+  margin-top: 20px;
+}
+
+/* image grid styles */
+.img-grid {
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 40px;
+}
+.img-wrap {
+  overflow: hidden;
+  /* height: 0;
+  padding: 50% 0;
+  /* padding controls height, will always be perfectly square regardless of width */
+  /* position: relative; */
+  opacity: 0.8;
+}
+
+/* modal styles */
+.backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+.backdrop img {
+  display: block;
+  max-width: 60%;
+  max-height: 80%;
+  margin: 60px auto;
+  box-shadow: 3px 5px 7px rgba(0, 0, 0, 0.5);
+  border: 3px solid white;
+}
+
+
+.page{
+  /* height: 100vh; */
+  /* background-color: gray; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: auto;
+
+}
+.container{
+  height: 500px;
+  width: 500px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+  
+}
+.heading{
+  text-align: center;
+  /* font-family: Arial, Helvetica, sans-serif; */
+  /* margin-top: 1rem; */
+  /* font-weight: bold; */
+
+}
+.img-holder{
+  margin: auto;
+  width: 500px;
+  height: 500px;
+  border: 3px rgb(240, 235, 235) solid;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+.img{
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+#input[type="file"] {
+	display: none;
+}
+.label{
+  width: 100%;
+  /* margin-top: 1rem; */
+  display: flex;
+  justify-content: center;
+}
+.image-upload{
+  /* margin: auto; */
+  width: 200px;
+	height: 50px;
+  color: white;
+  border-radius: 10px;
+  background-color: black;
+  text-align: center;
+  cursor: pointer;
+}
+
