@@ -27,4 +27,8 @@ CELOBrate is a decentralised LGBTIQ+ Themed Forum Where People Can Have Discussi
 2. Chat Forum Contract
 `0x72fE004d63ce4A48B18959A04AcF793276026C80` [0x72fE004d63ce4A48B18959A04AcF793276026C80](https://alfajores-blockscout.celo-testnet.org/address/0x72fE004d63ce4A48B18959A04AcF793276026C80/transactions)
 
+# Architecture
+<img width="580" alt="Screenshot 2022-07-17 at 3 30 06 AM" src="https://user-images.githubusercontent.com/43913734/179373161-c6b92547-e449-4afa-a599-49c999ec69f7.png">
+
+
 # Screenshots
