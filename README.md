@@ -48,6 +48,10 @@ CELOBrate is a decentralised LGBTIQ+ Themed Forum Where People Can Have Discussi
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/179374085-dc077855-308e-4673-8d8c-e805e9da1da7.png">
 
 
+# Steps to Run Locally
 
-
-- Solidity Smart Contract
+1. Make sure you have NodeJS installed
+2. Make sure you are connected to the `` RPC. Refer the link here to [set up your Metamask wallet](https://docs.celo.org/getting-started/wallets/using-metamask-with-celo/manual-setup)
+3. Obtain test Celo, cUSD, cEUR tokens from the Alfajores faucet [here](https://celo.org/developers/faucet)
+4. Navigate to the root folder and in your terminal, execute
+`yarn && yarn start`
