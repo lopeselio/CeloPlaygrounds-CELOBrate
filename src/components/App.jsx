@@ -1,7 +1,7 @@
 import LGBTQ from "../abis/LGBTQ.json";
 import React, { Component } from "react";
 import NavbarComp from "./NavbarComp";
-
+import Forum from "./Forum"
 const ipfsClient = require("ipfs-http-client");
 const ipfs = ipfsClient({
   host: "ipfs.infura.io",
@@ -150,7 +150,7 @@ class App extends Component {
 
   render() {
     return (
-      <NavbarComp
+      <><NavbarComp
         captureFile={this.captureFile}
         uploadImage={this.uploadImage}
         images={this.state.images}
@@ -161,8 +161,8 @@ class App extends Component {
         unsortView={this.unsortView}
         sortView={this.sortView}
         account={this.state.account}
-        connect={this.connectCeloWallet}
-      />
+        connect={this.connectCeloWallet} />
+        </>
     );
   }
 }
