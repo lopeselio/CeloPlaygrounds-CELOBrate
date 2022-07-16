@@ -1,4 +1,7 @@
 # [CELObrate](celobrate.netlify.xyz)
+celobrate.netlify.xyz
+or
+old-sea-4609.on.fleek.co
 
 Developed by [Elio Jordan Lopes](https://github.com/lopeselio/) and [Ramesh Sachan](https://github.com/holps-7)
 
